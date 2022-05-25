@@ -1,0 +1,7 @@
+{
+    "serverPort": 5000,
+    "dbUrl": "",
+    "secretKey": "mern-secret-key",
+    "filePath": "D:\\React\\Cloud\\server\\files",
+    "staticPath": "D:\\React\\Cloud\\server\\files"
+}
